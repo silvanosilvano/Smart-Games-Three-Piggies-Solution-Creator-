@@ -15,14 +15,14 @@ CURRENT_BOARD = [(2,1),(3,1),
 # print(CURRENT_BOARD[19])
 # 测试board的情况
 
-PG1 = (2,3)
-PG2 = (4,2)
-PG3 = (1,2)
+# PG1 = (2,3)
+# PG2 = (4,2)
+# PG3 = (1,2)
 
-Wlf = (1, 3)
+# Wlf = (1, 3)
 
 
-PIGS = [PG1, PG2]
+# PIGS = [PG1, PG2]
 
 ALL_COLORS = ["r", "y", "b"]
 
